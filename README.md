@@ -17,7 +17,7 @@ The project aims to perform keyword extraction and detection in Turkish texts us
 1. Clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/keyword-detection.git
+git clone https://github.com/tanersekmen/keyword-detection.git
 ```
 
 ```bash
